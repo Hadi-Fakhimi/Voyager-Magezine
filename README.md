@@ -22,7 +22,7 @@ This directory contains the **raw source files** of the magazine.
 Example structure:
 
 ```text
-docs/
+docs/Web
 ├── RESTful API/
 │   ├── restfull-api-1-1.md
 │   ├── restfull-api-1-2.md
@@ -60,7 +60,7 @@ Each chapter should have its own folder containing the related source code.
 Example:
 
 ```text
-code-sample/
+code-sample/Web
 ├── RESTful API/
 ├── HTTP/
 └── ...
@@ -77,13 +77,6 @@ Example:
 ```text
 <chapter-name>/restfull-api-1-1.md
 ```
-
-Example:
-
-```text
-docs/restfull-api/restfull-api-1-1.md
-```
-
 ---
 
 # 🌿 Git Workflow
@@ -148,7 +141,20 @@ If unrelated files are uploaded:
 | Not Set                  | Where Technology and Art Meets |
 
 ---
+# 🏷️ Contributor Badges Used on Top of Paper Works
 
+The following badges identify contributors and the type of contribution made to each paper:
+
+![Writer](https://img.shields.io/badge/Writer-Hadi_Fakhimi-blue)
+![Writer](https://img.shields.io/badge/Writer-Mohammad_Fakhredin-purple)
+![Writer](https://img.shields.io/badge/Writer-Mehdi_Naghian-pink)
+![Writer](https://img.shields.io/badge/Writer-Yousef_Parhizkari-black)
+
+![Graphical Design](https://img.shields.io/badge/Graphical_Design-Mostafa_Shekofteh-yellow)
+
+![AI Assisted](https://img.shields.io/badge/AI_Assisted-Yes-red)
+
+---
 # 🤝 Contribution Rules
 
 Before submitting your work, make sure that:
