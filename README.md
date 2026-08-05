@@ -149,6 +149,7 @@ The following badges identify contributors and the type of contribution made to 
 ![Writer](https://img.shields.io/badge/Writer-Mohammad_Fakhredin-purple)
 ![Writer](https://img.shields.io/badge/Writer-Mehdi_Naghian-pink)
 ![Writer](https://img.shields.io/badge/Writer-Yousef_Parhizkari-black)
+![Writer](https://img.shields.io/badge/Writer-Sohail_Ghazimoradi-green)
 
 ![Graphical Design](https://img.shields.io/badge/Graphical_Design-Mostafa_Shekofteh-yellow)
 
