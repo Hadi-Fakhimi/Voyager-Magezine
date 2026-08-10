@@ -1,4 +1,4 @@
-![Writer](https://img.shields.io/badge/Writer-Mahdi_Naghian-pink)
+![Writer](https://img.shields.io/badge/Writer-Mahdi_Naghian-yellow)
 
 # دیجیتال مارکتینگ در سال 2026
 
